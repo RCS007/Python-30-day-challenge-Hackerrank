@@ -20,5 +20,6 @@ Welcome to 30 Days of Code!
 
 |--------------------------|
 Hello, World. 
+|--------------------------|
 Welcome to 30 Days of Code!
 |--------------------------|
