@@ -1,4 +1,4 @@
-# Python-30-day-challenge-Hackerrank
+# Python-30-day-challenge-Hackerrank  [Day:1]
 
 ## Problem Statement :- On the first line, we print the string literal Hello, World.. On the second line, we print the contents of the input string variable which, for this sample case, happens to be Welcome to 30 Days of Code!.
 
